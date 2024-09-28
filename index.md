@@ -19,3 +19,18 @@ if (num % 2) == 0:
    print("{0} is Even".format(num))
 else:
    print("{0} is Odd".format(num))```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+- [x] The first task
+- [x] The second task
+- [x] The third task
+- [x] The fourth task
+- [ ] The fifth task
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
